@@ -1,0 +1,33 @@
+{
+    "admob":
+        {
+            "app_id":"ca-app-pub-3940256099942544~3347511713",
+            "banner_id":"ca-app-pub-3940256099942544/6300978111",
+            "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+            "native_id":"kosong"
+        },
+    "startapp":
+        {
+            "stapp_id":"205372141",
+            "stapp_disableSplash":true,
+            "stapp_disableAutoInterstitial":true,
+            "stapp_enableAutoAd":false
+        },
+    "rssfeed":
+        {
+            "json1":"Click to Download this",
+            "json2":"kosong",
+            "json3":"https://www.apache.org/licenses/LICENSE-2.0.html",
+            "json4":"https://score-hero-video-guide.blogspot.com/feeds/posts/default",
+            "json5":"https://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+	"pesanupdate":"This apps no longer support \n Please update and install new apps, Thanks!",
+	"linkupdate":"https://play.google.com/store/apps/details?id=com.whatsapp",
+    "suspended":"suspendedXX",
+    "ad_active":0,
+    "random_start":1,
+    "random_finish":3,
+    "random_selected":2,
+    "review":false,
+    "download":true
+}
