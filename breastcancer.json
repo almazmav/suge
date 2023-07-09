@@ -1,0 +1,26 @@
+[
+	{
+		"title":"Akun Arip",
+		"app_id":"ca-app-pub-3940256099942544~3347511713",
+		"banner_id":"ca-app-pub-3940256099942544/6300978111",
+		"interstitial_id":"ca-app-pub-3940256099942544/1033173712"
+	},
+	{
+		"title":"Akun Bima",
+		"app_id":"ca-app-pub-3940256099942544~3347511713",
+		"banner_id":"ca-app-pub-3940256099942544/6300978111",
+		"interstitial_id":"ca-app-pub-3940256099942544/1033173712"
+	},
+	{
+		"title":"Akun Budi",
+		"app_id":"ca-app-pub-3940256099942544~3347511713",
+		"banner_id":"ca-app-pub-3940256099942544/6300978111",
+		"interstitial_id":"ca-app-pub-3940256099942544/1033173712"
+	},
+	{
+		"title":"Akun Presiden",
+		"app_id":"ca-app-pub-3940256099942544~3347511713",
+		"banner_id":"ca-app-pub-3940256099942544/6300978111",
+		"interstitial_id":"ca-app-pub-3940256099942544/1033173712"
+	}
+]
